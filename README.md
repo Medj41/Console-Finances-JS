@@ -26,6 +26,9 @@ bash
 Copy code
 git clone  
 <!-- git@github.com:Medj41/Console-Finances-JS.git -->
+
+![github](https://github.com/Medj41/Console-Finances-JS/assets/127996990/71330674-8dee-4bf6-b4e7-481da9b3d283)
+
 cd Console-Finances
 2. Dataset Included
 The starter files, including the dataset composed of arrays with two fields (Date and Profit/Losses), are already present in the repository.
