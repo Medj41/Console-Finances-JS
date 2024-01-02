@@ -47,6 +47,7 @@ Greatest Increase in Profits: February 2012 ($1926159)
 Greatest Decrease in Profits: September 2013 ($-2196167)
 
 
+![js](https://github.com/Medj41/Console-Finances-JS/assets/127996990/5ad6980b-ebfe-4561-84b8-ba435b2585a0)
 
 ![Alt text](URL "js.png")
 Code Structure
