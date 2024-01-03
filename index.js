@@ -137,10 +137,10 @@ for (var i=1; i < finances.length; i++){
     }
 }
 
-console.log('Finances: ' + finances.length);  // Concatenation calculating number of months
-console.log('Total: $' + total);  // Interpolation to calculate The net total amount of Profit/Losses over the entire period
-console.log('Average change: $' + averageChange.toFixed(2));  // Interpolation to calculate The net total amount of Profit/Losses over the entire period
-console.log(`Greatest Increase in Profits/Losses: ${maxIncreaseMonth} ($${maxIncrease})`);  // Interpolation The greatest increase in Profit/Losses (date and difference in the amounts) over the entire period.
-console.log(`Greatest Decreease in Profits/Losses: ${maxDecreaseMonth} ($${maxDecrease})`); // Interpolation The greatest decrease in Profit/Losses (date and difference in the amounts) over the entire period.
+console.log('Finances: ' + finances.length);  // Concatenation calculating and display number of months
+console.log('Total: $' + total);  // Concatenation to calculate  and display The net total amount of Profit/Losses over the entire period
+console.log('Average change: $' + averageChange.toFixed(2));  // Concatenation to calculate and display The net total amount of Profit/Losses over the entire period
+console.log(`Greatest Increase in Profits/Losses: ${maxIncreaseMonth} ($${maxIncrease})`);  // Interpolation to display The greatest increase in Profit/Losses (date and difference in the amounts) over the entire period.
+console.log(`Greatest Decreease in Profits/Losses: ${maxDecreaseMonth} ($${maxDecrease})`); // Interpolation to display The greatest decrease in Profit/Losses (date and difference in the amounts) over the entire period.
 
 
